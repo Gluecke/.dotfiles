@@ -1,0 +1,6 @@
+[alias]
+	co = checkout
+	st = status
+[user]
+	email = 14304172+Gluecke@users.noreply.github.com
+	name = Garrett
